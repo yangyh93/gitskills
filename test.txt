@@ -7,3 +7,4 @@ creating a new branch is quick AND simple.
 >>>>>>> feature2
 creating a new branch is quick & simple ok.
 dev
+1243
